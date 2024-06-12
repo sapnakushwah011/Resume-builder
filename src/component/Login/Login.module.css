@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  max-height: auto;
+  background-color: #f6f9fa;
+}
+
+.body{
+  padding: 20px 30px 40px 30px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 40%;
+  border-radius: 12px;
+  height: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction : column;
+}

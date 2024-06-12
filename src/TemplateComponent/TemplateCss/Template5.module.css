@@ -1,0 +1,142 @@
+.container {
+    min-width: 500px;
+    max-width: 800px;
+    flex: 1.2;
+    margin: 0 auto;
+    min-height:100vh;
+    max-height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: white;
+    background-image: url("D:\resume-builder\src\assets\design.png");
+    background-size: 100% 100%;
+}
+
+/* Dividing the page into two column */
+
+.row{
+    display: flex;
+    height: fit-content;
+    width: auto;
+    background-repeat: no-repeat;
+   }
+
+   /* here are the column1 and column 2 */
+
+   .col1 {
+    flex: 2;
+    min-height: 1000px;
+    max-height: auto;
+    display: flex;
+    flex-direction: column;
+
+   }
+
+   .col2 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+   }
+
+   .image {
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    background-size: 0 auto;
+    border: 4px solid black;
+    margin: 35px 70px 20px;
+    padding: auto;
+ } 
+
+ .titleBody {
+    background-color: #E97528;
+    height: 35px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .col1Detail {
+    margin: 10px 20px;
+ }
+
+ .title{
+    text-transform: uppercase;
+    font-size: 1.0rem;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.1rem;
+}
+
+.subTitle {
+    font-size: 1.0rem;
+    color: black;
+}
+
+.head{
+    font-size: 0.9rem;
+    color: rgb(116, 115, 115);
+}
+
+.content {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
+
+.col2Detail {
+    margin: 10px 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+ }
+
+ .heading {
+    color: white;
+    font-size: 2.0rem;
+    text-transform: uppercase ;
+    font-weight: bold;
+    padding-top: 100px;
+    margin-left: -200px ;
+    letter-spacing: 0.1rem;
+ }
+
+ .subHeading {
+    color: white;
+    font-size: 1.0rem;
+    margin-left:-200px;
+    letter-spacing: 0.1rem;
+ }
+
+ .contactSection {
+    padding: 91px 10px 0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+ }
+
+ .col2TitleBody {
+    border: 2px solid #E97528;
+    height: 35px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.0rem;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.1rem;
+ }
+
+ .col2Content {
+    font-size: 0.9rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 30px;
+    color: white;
+ }
+
+ .icon {
+    color:#E97528; 
+ }

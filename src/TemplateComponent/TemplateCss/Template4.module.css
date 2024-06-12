@@ -1,0 +1,85 @@
+.container {
+    min-width: 500px;
+    max-width: 800px;
+    flex: 1.2;
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    min-height: 50vh;
+    max-height: auto;
+    gap: 8px;
+    background-color:white;
+
+     margin-top:60px;
+     margin-bottom: 20px;
+    }
+
+    .classRow {
+        display:'flex';
+        justify-content: center;
+        align-items: center;
+        height: 100px;
+        line-height: 30px;
+    }
+
+    .classRow .heading {
+        font-size: 1.8rem;
+        font-weight: bold;
+        color: #325283;
+        text-transform: uppercase;
+    }
+
+    .classRow .subHeading {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #5da9d2;
+    }
+
+    .contact {
+        font-size: 0.9rem;
+        color: rgb(102, 100, 100);
+        padding-right: 18px;
+    }
+
+    .row {
+        display:flex;
+        padding: 40px 0px;
+        height: fit-content;
+    }
+
+    .column1 {
+        flex : 2;
+        margin-right: 20px;
+    }
+
+    .column2{
+        flex: 1;
+        margin-right: 20px;
+    }
+
+    .title {
+      text-transform: uppercase;
+      border-bottom: 4px solid #325283;
+      font-weight: bold;
+      padding: 15px 0px 0px;
+      font-size: 1.0rem;
+      color: #325283;
+    }
+
+    .subTitle {
+        font-weight: bold;
+         padding: 10px 0px 0px;
+    }
+
+    .content {
+        padding-top: 10px;
+        font-size: 0.9rem;
+        color: rgb(102, 100, 100);
+        padding-right: 20px;
+    
+    }
+
+    .head {
+        color: rgb(102, 100, 100);
+        font-size: 0.9rem;
+    }
