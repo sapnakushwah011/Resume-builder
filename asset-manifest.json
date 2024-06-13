@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Resume-builder/static/css/main.1d0f614c.css",
+    "main.js": "/Resume-builder/static/js/main.6c78285b.js",
+    "static/js/787.ebd68730.chunk.js": "/Resume-builder/static/js/787.ebd68730.chunk.js",
+    "static/media/Template1.png": "/Resume-builder/static/media/Template1.e7f4aeb236bc89c6ba40.png",
+    "static/media/Template3.png": "/Resume-builder/static/media/Template3.f775b50e9985e2daa262.png",
+    "static/media/Template5.png": "/Resume-builder/static/media/Template5.68f68a3f2cae494bfc7c.png",
+    "static/media/design.png": "/Resume-builder/static/media/design.cb5793dc10c2ed5cea9d.png",
+    "static/media/Template6.png": "/Resume-builder/static/media/Template6.cfc16574982c8f91f126.png",
+    "static/media/Template4.png": "/Resume-builder/static/media/Template4.44e95e63d21be47a287a.png",
+    "static/media/Template2.png": "/Resume-builder/static/media/Template2.cc24561f3229370a9406.png",
+    "static/media/BeFunky-design.jpg": "/Resume-builder/static/media/BeFunky-design.ee4199e656d3ef7fc565.jpg",
+    "static/media/background.jpg": "/Resume-builder/static/media/background.5afeff6be810a0a365d3.jpg",
+    "static/media/Resume.svg": "/Resume-builder/static/media/Resume.8435c3d4d695a173ba1cbfc13b9407ba.svg",
+    "index.html": "/Resume-builder/index.html",
+    "main.1d0f614c.css.map": "/Resume-builder/static/css/main.1d0f614c.css.map",
+    "main.6c78285b.js.map": "/Resume-builder/static/js/main.6c78285b.js.map",
+    "787.ebd68730.chunk.js.map": "/Resume-builder/static/js/787.ebd68730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0f614c.css",
+    "static/js/main.6c78285b.js"
+  ]
+}
